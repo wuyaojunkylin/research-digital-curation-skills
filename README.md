@@ -35,5 +35,4 @@ curatorial-topic-framing/
 
 ## License
 
-MIT
-
+MIT License. See [LICENSE](LICENSE).
